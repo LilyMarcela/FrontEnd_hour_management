@@ -1,5 +1,33 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Hours Management
+
+This is a basic React API create to consume the information from https://github.com/LilyMarcela/Shifts_management, at the moment only views are available for `sign_in`, `sign_up` and a `users`table view which fetches information from http://jsonplaceholder.typicode.com to act as fake data while the back-end endpoint is connected. 
+
+
+### The available views were created with the help of Material-UI
+
+
+## Future Development
+
+This API will allow an Admin to manage their employees worked hours and will allow the employees to keep a track of those hours as well. A report endpoint will be implemented as well.
+
+
+## Dependencies
+
+- React Router
+- Axios
+- Material-UI
+
+
+
+
+
+___________________________________________
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
